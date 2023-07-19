@@ -1,0 +1,27 @@
+@media screen and (max-width: 400px) {
+    .nav-container {
+        flex-direction: column;
+    }
+
+    .nav-items-container {
+        flex-direction: column;
+    }
+
+    .nav-items-container a {
+        margin-top: 20px;
+    }
+
+    .nav-items-container .flw-btn {
+        margin-bottom: 10px;
+    }
+
+   .flw-btn {
+    width: 100%;
+    height: 56px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    padding-top: 15px;
+
+   }
+   
+}

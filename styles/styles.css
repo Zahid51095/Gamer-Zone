@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&family=Work+Sans&display=swap');
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    
+    font-family: 'Work Sans', sans-serif;
+}
+
+nav {
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+}
+
+.nav-container {
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.logo-container {
+    display: flex;
+    width: 50%;
+}
+
+.logo-container img {
+    width: 86px;
+    height: 40px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.logo-container p {
+    text-align: center;
+    color: #0B0223;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+
+.g-section {
+    color: #FF42A5;
+}
+.nav-items-container {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items-container a {
+    text-decoration: none;
+    color: #3C354F;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+   
+}
+
+.flw-btn {
+    width: 50%;
+    height: 56px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    padding-top: 15px;
+   
+  
+    
+}
+
+.fwu {
+    padding-right: 10px;
+}
+
+
+.icons {
+    display: inline-block;
+    padding-left: 5px;
+}
+
