@@ -23,5 +23,16 @@
     padding-top: 15px;
 
    }
+
+   .banner-container {
+    flex-direction: column-reverse;
+   }
+
+   .banner-text, .banner-img {
+    width: 100%;
+   }
+
    
+
+
 }
