@@ -345,9 +345,79 @@ nav {
 
 .footer-section {
     background: #0B0223;
+    align-content: center;
+    justify-content: center;
+  
 
+}
+
+.footer-logo-container {
+    display: flex;
+    width: 50%;
+    margin-left: 500px;
+
+    
+}
+
+.f-g-section {
+    color: #FF42A5;
 }
 
 .a-section {
     color: white;
+}
+
+.footer-logo-container img {
+    width: 86px;
+    height: 40px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.footer-title {
+    text-align: center;
+    color: #0B0223;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.footer-paragraphs {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 20px;
+}
+
+.footer-details {
+    color: white;
+}
+
+.footer-fonts {
+    display: flex;
+    justify-content: space-around; 
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 20px;
+  
+
+
+}
+
+.terms {
+    display: flex;
+    justify-content: space-around; 
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+}
+
+.terms-text {
+    color: white;
+}
+
+.copy-text {
+    color: white;
+    text-align: center;
+    padding-bottom: 50px;
 }
