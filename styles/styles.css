@@ -93,6 +93,7 @@ nav {
     min-height: 50px;
     display: flex;
     background: #FFF;
+    margin-bottom: 70px;
 }
 
 .banner-text {
@@ -258,6 +259,7 @@ nav {
     min-height: 50px;
     display: flex;
     gap: 150px;
+    margin-top: 90px;
 
 }
 
@@ -321,6 +323,7 @@ nav {
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
+    margin-bottom: 40px;
 }
 
 .single-feature {
@@ -347,6 +350,7 @@ nav {
     background: #0B0223;
     align-content: center;
     justify-content: center;
+    margin-top: 30px;
   
 
 }
