@@ -312,3 +312,42 @@ nav {
     border: 10px solid #FFF;
 }
 
+
+
+.features-container {
+    gap: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.single-feature {
+    flex-basis: 300px;
+    border-radius: 50px;
+    background: #FFF;
+    padding: 40px;
+    
+
+}
+
+.single-feature:hover {
+    background-color: gray;
+}
+
+.top-feature {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+
+.footer-section {
+    background: #0B0223;
+
+}
+
+.a-section {
+    color: white;
+}
